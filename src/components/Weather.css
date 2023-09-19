@@ -1,0 +1,22 @@
+.img {
+    align-items: center;
+}
+
+.error {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+.city {
+    text-transform: capitalize;
+}
+
+.deg {
+    font-size: 20px;
+}
